@@ -1,0 +1,2 @@
+number = 18
+print(float(number)) # or print(float(18))
