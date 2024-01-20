@@ -2,3 +2,4 @@ name = "Tony Stark"
 
 print(name.find('S'))
 print(name.find('s'))
+print(name.find("Stark"))  # it starts at 5 index
