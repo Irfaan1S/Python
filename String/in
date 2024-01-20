@@ -1,3 +1,5 @@
 name = "Tony Stark"
 print('o' in name)
 print('M' in name)
+print("Stark" in name)
+print("Ironman" in name)
