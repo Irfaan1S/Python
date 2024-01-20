@@ -1,0 +1,5 @@
+name = "Tony Stark"
+print(name.replace("Tony Stark","Ironman"))#whole string
+print(name.replace("Stark","Ironman")) #A substring
+print(name.replace("T","M"))  # A character
+print(name)
