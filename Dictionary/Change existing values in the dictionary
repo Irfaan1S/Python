@@ -1,3 +1,4 @@
 marks = {"english" : 95,"chemistry": 98,"physics":97}
+print(marks)
 marks["physics"] = 99
 print(marks)
