@@ -1,0 +1,2 @@
+person = "ram","shyam","abhi"
+print(person)
