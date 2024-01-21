@@ -1,0 +1,4 @@
+i = 1
+while i <= 5 :
+    print(i * "*")  #jitne i ki value he utne star hamare print hogaye
+    i = i + 1
